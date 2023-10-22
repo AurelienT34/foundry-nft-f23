@@ -28,7 +28,7 @@ Creating 2 different kinds of NFTs.
 ## Quickstart
 
 ```
-git clone
+git clone https://github.com/AurelienT34/foundry-nft-f23.git
 cd foundry-nft-f23
 forge install
 forge build
